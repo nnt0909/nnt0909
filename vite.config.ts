@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
-    base: '/leave-tracker/',   // 👈 thay bằng đúng tên repo của bạn
+    base: '/nnt0909/',   // 👈 thay bằng đúng tên repo của bạn
     server: {
       port: 3000,
       host: '0.0.0.0',
