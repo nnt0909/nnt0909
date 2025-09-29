@@ -1,0 +1,5 @@
+{
+  "name": "Leave Tracker App",
+  "description": "A web application to efficiently manage and track employee annual leave, inspired by a Python desktop application. It allows for adding, editing, and deleting employee leave records, viewing monthly summaries, and exporting data to Excel.",
+  "requestFramePermissions": []
+}
